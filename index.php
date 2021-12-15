@@ -22,6 +22,10 @@ if (!isset($_SESSION['logado']) && $_SESSION['logado'] != true) {
         <h1>Página inicial</h1>
         <br><br>
         <button onclick="location.href = 'view/cadUsuario.php'">Cadastro de Usuário</button>
+        <br><br>
+        <button onclick="location.href = 'view/cadPessoaF.php'">Cadastro de Pessoa Fisica</button>
+        <br><br>
+        <button onclick="location.href = 'view/cadPessoaJ.php'">Cadastro de Pessoa Juridica</button>
 
     </body>
 </html>

@@ -3,8 +3,14 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/xampp/htdocs/mLoginPDO/controller/cLogin.php</file>
+            <file>file:/C:/xampp/htdocs/mLoginPDO/view/editPessoaF.php</file>
+            <file>file:/C:/xampp/htdocs/mLoginPDO/controller/cPessoaF.php</file>
+            <file>file:/C:/xampp/htdocs/mLoginPDO/view/cadPessoaF.php</file>
+            <file>file:/C:/xampp/htdocs/mLoginPDO/view/listaPessoaF.php</file>
+            <file>file:/C:/xampp/htdocs/mLoginPDO/controller/editPessoa.php</file>
+            <file>file:/C:/xampp/htdocs/mLoginPDO/index.php</file>
             <file>file:/C:/xampp/htdocs/mLoginPDO/controller/cUsuario.php</file>
+            <file>file:/C:/xampp/htdocs/mLoginPDO/controller/deletePessoa.php</file>
         </group>
     </open-files>
 </project-private>
